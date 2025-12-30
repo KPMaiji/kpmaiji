@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "KPMaiji"
+
+  navbar:
+    background: ivory   
+    search: true
+    # left:
+    #   - text: "Home"
+    #     href: index.qmd
+    right:
+      - text: "Home"
+        href: index.qmd
+      - about.qmd
+      - text: "Yoga Classes"
+        href: yoga.qmd
+      - text: "Vegan Lifestyle"
+        href: vegan.qmd
+      - text: "Articles"
+        href: blog.qmd
+      # - icon: github
+      #   href: https://github.com/
+      # - icon: twitter
+      #   href: https://twitter.com
+format:
+  
+  html:
+    mainfont: cursive
+    theme:
+      - default
+      - brand
+    #background color: floralwhite
+    #fontcolor: darkgreen 
+    css: styles.css
+
+editor: visual
+
