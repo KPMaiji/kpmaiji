@@ -1,9 +1,19 @@
 [
   {
+    "listing": "/website/blog.html",
+    "items": [
+      "/website/posts/Shoulder Stands/index.html",
+      "/website/posts/welcome/index.html"
+    ]
+  },
+  {
     "listing": "/blog.html",
     "items": [
+      "/posts/8 Limbs/index.html",
       "/posts/Shoulder Stands/index.html",
-      "/posts/welcome/index.html"
+      "/website/posts/Shoulder Stands/index.html",
+      "/posts/welcome/index.html",
+      "/website/posts/welcome/index.html"
     ]
   }
 ]
