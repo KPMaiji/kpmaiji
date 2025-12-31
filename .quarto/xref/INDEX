@@ -22,5 +22,29 @@
   },
   "posts/Shoulder Stands/index.qmd": {
     "index.html": "eb37001b"
+  },
+  "posts/8 Limbs/index.qmd": {
+    "index.html": "32f1c88d"
+  },
+  "website/about.qmd": {
+    "about.html": "09c3d60e"
+  },
+  "website/blog.qmd": {
+    "blog.html": "faef0b9c"
+  },
+  "website/index.qmd": {
+    "index.html": "9ec58a44"
+  },
+  "website/posts/Shoulder Stands/index.qmd": {
+    "index.html": "eb56ea91"
+  },
+  "website/posts/welcome/index.qmd": {
+    "index.html": "2177bf9b"
+  },
+  "website/vegan.qmd": {
+    "vegan.html": "f5bfdd99"
+  },
+  "website/yoga.qmd": {
+    "yoga.html": "d0961d3b"
   }
 }
