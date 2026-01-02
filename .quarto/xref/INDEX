@@ -49,5 +49,32 @@
   },
   "posts/welcome - Copy/index.qmd": {
     "index.html": "63887160"
+  },
+  "kpmaiji/about.qmd": {
+    "about.html": "316173cb"
+  },
+  "kpmaiji/blog.qmd": {
+    "blog.html": "97a67a12"
+  },
+  "kpmaiji/index.qmd": {
+    "index.html": "4b3b13de"
+  },
+  "kpmaiji/posts/8 Limbs/index.qmd": {
+    "index.html": "4c675475"
+  },
+  "kpmaiji/posts/Shoulder Stands/index.qmd": {
+    "index.html": "ecf3d8d9"
+  },
+  "kpmaiji/posts/welcome/index.qmd": {
+    "index.html": "45e81ed8"
+  },
+  "kpmaiji/vegan.qmd": {
+    "vegan.html": "f53a8b64"
+  },
+  "kpmaiji/yoga.qmd": {
+    "yoga.html": "9b33215d"
+  },
+  "posts/test/index.qmd": {
+    "index.html": "e5a24379"
   }
 }

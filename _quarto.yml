@@ -29,7 +29,7 @@ website:
 format:
   
   html:
-    mainfont: sans-serifli
+    mainfont: sans-serif
     theme:
       - default
       - brand

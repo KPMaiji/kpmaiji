@@ -2,10 +2,20 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/kpmaiji/posts/8 Limbs/index.html",
       "/posts/8 Limbs/index.html",
+      "/kpmaiji/posts/Shoulder Stands/index.html",
       "/posts/Shoulder Stands/index.html",
-      "/posts/welcome/index.html",
-      "/posts/welcome - Copy/index.html"
+      "/kpmaiji/posts/welcome/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/kpmaiji/blog.html",
+    "items": [
+      "/kpmaiji/posts/8 Limbs/index.html",
+      "/kpmaiji/posts/Shoulder Stands/index.html",
+      "/kpmaiji/posts/welcome/index.html"
     ]
   }
 ]

@@ -1,5 +1,5 @@
 ---
-title: "Artciles"
+title: "Articles"
 listing:
   contents: posts
   sort: "date desc"

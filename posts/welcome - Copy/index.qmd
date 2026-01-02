@@ -1,8 +1,0 @@
----
-title: "Welcome to Yoga 2"
-author: "KP Maiji"
-date: "2025-12-18"
-categories: [news]
----
-
-Welcome!
