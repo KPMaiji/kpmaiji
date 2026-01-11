@@ -76,5 +76,11 @@
   },
   "posts/test/index.qmd": {
     "index.html": "e5a24379"
+  },
+  "articles.qmd": {
+    "articles.html": "6295d6ac"
+  },
+  "posts/Shoulder Stand/index.qmd": {
+    "index.html": "33c26341"
   }
 }

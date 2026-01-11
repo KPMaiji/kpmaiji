@@ -21,7 +21,7 @@ website:
       - text: "Vegan Lifestyle"
         href: vegan.qmd
       - text: "Articles"
-        href: blog.qmd
+        href: articles.qmd
       # - icon: github
       #   href: https://github.com/
       # - icon: twitter

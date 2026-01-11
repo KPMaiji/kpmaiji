@@ -1,5 +1,5 @@
 ---
-title: "Shoulder Stands"
+title: "Shoulder Stand"
 author: "KP Maiji"
 date: "2025-12-30"
 categories: [asanas]

@@ -5,4 +5,26 @@ date: "2025-12-31"
 categories: [reference]
 ---
 
-There are 8 limbs to yoga
+Yoga is much more than poses and postures. Patanjali's Ashtanga Yoga is an eight limbed path to spiritual and personal growth. Yoga asanas are only one aspect of yoga. The aspects of yoga include:
+
+-   Yama: ethics
+
+    -   Ahimsa (non-violence), Satya (truthfulness), Asteya (non-stealing), Brahmacharya (moderation/celibacy), Aparigraha (non-possessiveness)
+
+-   Niyama: personal observances
+
+    -   Saucha (purity), Santosha (contentment), Tapas (austerity), Svadhyaya (self-study), Ishvara Pranidhana (devotion).
+
+-   Asaja: poses and postures
+
+-   Pranayama: breath control
+
+-   Pratyahara: sense withdrawal
+
+-   Dharana: concentration, 
+
+-   Dhyana: meditation
+
+-   Samadhi: absorption/union
+
+.
