@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: flower.jpg
+image: pic_guru.jpeg
 about:
   template: solana
   # links:
@@ -15,7 +15,7 @@ about:
   #     href: https://github.com
 ---
 
-KP has been practicing various forms of yoga, meditations, pranayam for decades from multiple teachers both in the US and India. She is a certified Yoga Aliance yoga teacher.
+KP has been practicing various forms of yoga, meditations, pranayam for decades from multiple teachers both in the US and India. She is a certified Yoga Alliancece yoga teacher specializing in breath based Hatha Yoga, Kriya Yoga and Swara Yoga.
 
 She shares her practice through hosting events, live discussion sessions, and yoga classes.
 
